@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: David Schmitt
 ---
 ## Personal Bio
 
@@ -13,7 +14,7 @@ I'm David Schmitt, a senior computer science student with a mathematics minor at
 I'm primarily focused on visual odometry with applications to autonomous field robotics. I have also gained experience with stero camera systems and their calibration as well as image processing techniqes including undistorting fisheye lense footage.
 
 ## Resume
-<iframe src="/assets/Resume_NEEDSREVISION_David_Schmitt.pdf" width="100%" height="500px"></iframe><br>
+<iframe src="/assets/Resume_NEEDSREVISION_David_Schmitt.pdf" width="100%" height="600px"></iframe><br>
 ## Blog Posts
 <ul>
   {% for post in site.posts %}
