@@ -14,7 +14,10 @@ I'm David Schmitt, a senior computer science student with a mathematics minor at
 I'm primarily focused on visual odometry with applications to autonomous field robotics. I have also gained experience with stero camera systems and their calibration as well as image processing techniqes including undistorting fisheye lense footage.
 
 ## Resume
-<iframe src="/assets/Resume_NEEDSREVISION_David_Schmitt.pdf" width="100%" height="600px"></iframe><br>
+<iframe src="/assets/Resume_NEEDSREVISION_David_Schmitt.pdf" width="100%" height="600px">
+  Your browser doesn't support PDF embeds. Click [here](/assets/Resume_NEEDSREVISION_David_Schmitt.pdf) to download it.
+</iframe>
+<br>
 ## Blog Posts
 <ul>
   {% for post in site.posts %}
