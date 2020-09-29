@@ -15,7 +15,7 @@ I'm primarily focused on visual odometry with applications to autonomous field r
 
 ## Resume
 <object data="/assets/Resume_NEEDSREVISION_David_Schmitt.pdf" type="application/pdf" width="100%" height="600px">
-  <embed src="/assets/Resume_NEEDSREVISION_David_Schmitt.pdf type="application/pdf">
+  <embed src="/assets/Resume_NEEDSREVISION_David_Schmitt.pdf type="application/pdf">Your brower doesn't support PDF embedding. Download the resume [here](/assets/Resume_NEEDSREVISION_David_Schmitt.pdf).</embed>
 </object>
 <br>
 ## Blog Posts
