@@ -11,8 +11,7 @@ I'm David Schmitt, a senior computer science student with a mathematics minor at
 
 ## Statement of Purpose
 
-I'm primarily focused on visual odometry with applications to autonomous field robotics. I have also gained experience with stereo camera systems and their calibration as well as image processing techniqes including undistorting fisheye lens footage.
-
+I'm primarily focused on visual odometry with applications to autonomous field robotics. I have also gained experience with stereo camera systems and their calibration as well as image processing techniqes including undistorting fisheye lens footage. I have experience working with ROS (Robotic Operating System). I have conducted pool trials with the amphibious robot aqua which itself operates on ROS. Another ROS system I've worked with is the lab's StereoRig, a submersible handheld stereo camera system with IMU and onboard computer. I had to study and troubleshoot the StereoRig system in order to support other projects in the AFRL lab.
 ## Resume
 <object data="/assets/Resume_NEEDSREVISION_David_Schmitt.pdf" type="application/pdf" width="100%" height="600px">
   Your brower doesn't support PDF embedding. Download the resume <a href="/assets/Resume_NEEDSREVISION_David_Schmitt.pdf">here</a>.
