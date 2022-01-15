@@ -28,7 +28,7 @@ I'm primarily focused on visual odometry with applications to autonomous field r
 </div>
 
 ## Resume
-<object data="/assets/Resume_David_Schmitt.pdf" type="application/pdf" width="100%" height="600px">
+<object data="/assets/Resume_David_Schmitt_FINAL_01_14_22.pdf" type="application/pdf" width="100%" height="600px">
   Your brower doesn't support PDF embedding. Download the resume <a href="/assets/Resume_David_Schmitt.pdf">here</a>.
 </object>
 <br>
