@@ -30,7 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  schmitd
 
 # Build settings
-theme: "jekyll-skeleton"
+remote_theme: "awochana/jekyll-skeleton"
 plugins:
   - jekyll-feed
 
