@@ -4,7 +4,7 @@
 
 layout: default
 title: David Schmitt
-resume: David_Schmitt_Resume_FINAL_01_14_22.pdf
+resume: assets/David_Schmitt_Resume_FINAL_01_14_22.pdf
 ---
 ## Personal Bio
 
