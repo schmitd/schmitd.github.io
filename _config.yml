@@ -22,9 +22,8 @@ title: David Schmitt
 email: davidcschmitt@outlook.com
 phone: 1-864-520-7663
 description: >- # this means to ignore newlines until "baseurl:"
-  David Schmitt is a senior computer science major and math minor at
-  the University of South Carolina, secretary of UofSC's ACM chapter,
-  and an undergraduate robotics researcher in the AFRL lab on campus. 
+  David Schmitt is a bachcelor of Computer Science and math minor at
+  the University of South Carolina, former secretary of UofSC's ACM chapter, performed undergraduate research in robotics at the AFRL lab on campus, and assisted research at the Darla Moore School of Business. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  schmitd
